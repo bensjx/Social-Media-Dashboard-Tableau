@@ -9,3 +9,8 @@ monitor and maintain its social media in the Asia/Pacific region across Facebook
 This repo constist of:
 1) The tableau workbook with the social media dashboard
 2) A writeup with screenshots of the social media dashboard in Tableau
+
+# Concept:
+1) Importing and Exporting Data
+2) Data Visualisation
+3) Creation of interactive dashboards
